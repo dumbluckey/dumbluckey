@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=🪄Hi%20I'm%20HeeJin!🫧&fontColor=424242)<br><br>
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=🪄Hi!👋%20I'm%20HeeJin!🫧&fontColor=424242)<br><br>
 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 

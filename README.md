@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=오늘도 좋은 하루입니다🪄🫧&fontColor=424242)<br><br>
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=🪄오늘도%20좋은%20하루입니다!🫧&fontColor=424242)<br><br>
 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 

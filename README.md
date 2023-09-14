@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=🪄Hi!👋%20I'm%20HeeJin!🫧&fontColor=424242)<br><br>
 
-### 💻 Languages 💻
+  <h2> 💻 Languages 💻 </h2>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <br>

@@ -3,6 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=🪄Hi!👋%20I'm%20HeeJin!🫧&fontColor=424242)<br><br>
 
 ### 👀 About Me
+<hr>
   #### :school: 영남이공대학교 소프트웨어컨텐츠 - 소프트웨어 전공 (2022.3 ~ 2025.2)<br/>
   #### :bar_chart: 데이터 분석가를 준비하고 있습니다.
   <br/>

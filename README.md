@@ -1,6 +1,12 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&animation=blinking&text=🪄Hi!👋%20I'm%20HeeJin!🫧&fontColor=424242)<br><br>
+
+## 👀 About Me
+  #### :school: 영남이공대학교 소프트웨어컨텐츠 - 소프트웨어 전공 (2022.3 ~ 2025.2)<br/>
+  #### :bar_chart: 데이터 분석가<br/>
+  <br/>
+  <br>
   
   <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -21,6 +27,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp

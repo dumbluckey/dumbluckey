@@ -11,8 +11,8 @@
   
   <!--내용 부분-->
 <h3>✨ Tech Stack ✨</h3>
----
 <div>
+  ---
   <img src="https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
